@@ -43,7 +43,7 @@
 
 <!-- Add this to your existing HTML page -->
 <script nonce="aem" src="/scripts/styleconfigurations.js"></script>
-<script>
+<script nonce="aem">
   !function (n, o) {
     o.forEach(function (o) {
       n[o] || ((n.__alloyNS = n.__alloyNS ||
@@ -66,7 +66,7 @@
 <script nonce="aem" src="https://cdn1.adoberesources.net/alloy/2.32.0/alloy.min.js"></script>
 <script nonce="aem" src="https://experience.adobe.net/solutions/experience-platform-brand-concierge-web-agent/static-assets/main.js"></script>
 
-<script>
+<script nonce="aem">
   alloy("configure", {
     defaultConsent: "in",
     edgeDomain: "edge.adobedc.net",
@@ -84,7 +84,7 @@
 
 <!-- Add this div where you want the agent to appear -->
 <div id="brand-concierge-mount"></div>
-<script>
+<script nonce="aem">
     window.adobe.concierge.bootstrap({
       instanceName: "alloy",
       stylingConfigurations: window.styleConfiguration,
