@@ -1,7 +1,7 @@
 {
   "public": {
     "default": {
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/NkadZDMSw6X4hkQNinEYVK/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/5HmUce3zojnHWY4RsJm67j/graphql",
       "headers": {
         "all": {
           "Store": "default"
@@ -19,11 +19,11 @@
       "analytics": {
         "base-currency-code": "USD",
         "environment": "Testing",
-        "environment-id": "NkadZDMSw6X4hkQNinEYVK",
+        "environment-id": "5HmUce3zojnHWY4RsJm67j",
         "store-code": "citisignal",
         "store-id": "citisignal",
         "store-name": "CitiSignal",
-        "store-url": "https://coresaas-subgraph-external:8000/NkadZDMSw6X4hkQNinEYVK/",
+        "store-url": "https://coresaas-subgraph-external:8000/5HmUce3zojnHWY4RsJm67j/",
         "store-view-code": "citisignal",
         "store-view-id": "citisignal",
         "store-view-name": "CitiSignal",
