@@ -1,0 +1,19 @@
+{
+  "allow.empty": false,
+  "allow.hosts": [],
+  "allow.hosts.regexp": [
+    "https://.*\\.aem\\.page:443",
+    "https://.*\\.aem\\.live:443",
+    "https://.*\\.adobedemosystem\\.com:443"
+  ],
+  "filter.methods": [
+    "POST",
+    "PUT",
+    "DELETE",
+    "COPY",
+    "MOVE"
+  ],
+  "exclude.agents.regexp": [
+    ""
+  ]
+}
